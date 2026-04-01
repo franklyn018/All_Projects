@@ -8,7 +8,7 @@ I enjoy building projects with software that can be used by people actual useful
 
 ## Personal Projects
 
-###ImprovKeys: 
+### ImprovKeys: 
 An interactive piano improvisation learning platform for musicians to learn a new skill. 
 - Interactive lesson system
 - Jam session / practice tools
@@ -17,7 +17,7 @@ An interactive piano improvisation learning platform for musicians to learn a ne
 
 Link: https://github.com/franklyn018/ImprovKeys.git
 
-###Property Management: 
+### Property Management: 
 A full stack property management for both property owners and their tenants to keep track of maintenance and rent. 
 - Admin dashboard
 - Tenant dashboard
@@ -26,12 +26,12 @@ A full stack property management for both property owners and their tenants to k
 
 Link: https://github.com/franklyn018/Property_Management.git
 
-###Dimensioner Project: 
+### Dimensioner Project: 
 A university-industry partnered engineering project that involves out bound shipping automation for warehouse unloading and optimized pallet placement system. 
 
 Link: Signed NDA
 
-##All School (UCR) Project HTTPS Github Links:
+## All School (UCR) Project HTTPS Github Links:
 
 https://github.com/franklyn018/AI1.git
 
@@ -45,7 +45,7 @@ https://github.com/franklyn018/CS100_Final_Project.git
 
 https://github.com/franklyn018/DatabaseProject.git
 
-##Google collab for Machine Learning: 
+## Google collab for Machine Learning: 
 
 https://colab.research.google.com/drive/1bpyGRCHEeqE1WptbIK_9yOAqxtc1Ujlq
 
