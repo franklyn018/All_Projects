@@ -1,8 +1,8 @@
 # Hi, I'm Franklyn Lu 👋
 
-I'm a Computer Science student at **UC Riverside** with interests in **software engineering, embedded systems, automotive technology, backend development, and music technology**.
+I'm a Computer Science recent grad student at **UC Riverside** with interests in **software engineering**.
 
-I enjoy building projects that combine **real-world problem solving** with software, whether that's through **web apps, embedded systems, machine learning, or interactive music tools**.
+I enjoy building projects with software that can be used by people actual useful things. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
