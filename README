@@ -1,14 +1,37 @@
-ImprovKeys:
+# Hi, I'm Franklyn Lu 👋
 
-https://github.com/franklyn018/ImprovKeys.git
+I'm a Computer Science student at **UC Riverside** with interests in **software engineering, embedded systems, automotive technology, backend development, and music technology**.
 
-Signed NDA for Dimensioner Project, cannot share Repo
+I enjoy building projects that combine **real-world problem solving** with software, whether that's through **web apps, embedded systems, machine learning, or interactive music tools**.
 
+------------------------------------------------------------------------------------------------------------------------------
 
+## Personal Projects
 
+###ImprovKeys: 
+An interactive piano improvisation learning platform for musicians to learn a new skill. 
+- Interactive lesson system
+- Jam session / practice tools
+- MIDI controller input support
+- User login + lesson progress tracking
 
+Link: https://github.com/franklyn018/ImprovKeys.git
 
-All School (UCR) Project HTTPS Github Links:
+###Property Management: 
+A full stack property management for both property owners and their tenants to keep track of maintenance and rent. 
+- Admin dashboard
+- Tenant dashboard
+- Messaging system
+- Rent and Payment system
+
+Link: https://github.com/franklyn018/Property_Management.git
+
+###Dimensioner Project: 
+A university-industry partnered engineering project that involves out bound shipping automation for warehouse unloading and optimized pallet placement system. 
+
+Link: Signed NDA
+
+##All School (UCR) Project HTTPS Github Links:
 
 https://github.com/franklyn018/AI1.git
 
@@ -22,7 +45,7 @@ https://github.com/franklyn018/CS100_Final_Project.git
 
 https://github.com/franklyn018/DatabaseProject.git
 
-Google collab for Machine Learning: 
+##Google collab for Machine Learning: 
 
 https://colab.research.google.com/drive/1bpyGRCHEeqE1WptbIK_9yOAqxtc1Ujlq
 
