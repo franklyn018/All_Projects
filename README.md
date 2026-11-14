@@ -33,13 +33,13 @@ A university-industry partnered engineering project that involves out bound ship
 
 Link: Code is private under an NDA
 
+<!-- 
+
 ## UCR Project Links:
 
 https://github.com/franklyn018/AI1.git
 
 https://github.com/franklyn018/AI2.git
-
-<!-- 
 
 https://github.com/franklyn018/Hand_Gesture.git
 
