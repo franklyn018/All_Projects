@@ -1,6 +1,6 @@
 # Hi, I'm Franklyn Lu 👋
 
-MS Computer Science student with a BS in Computer Science from UC Riverside (2026). I build full-stack web applications
+MS Computer Science student with a BS in Computer Science from UC Riverside (2026). I build full-stack web applications.
 
 Tech I work with: JavaScript, React, Node.js, Express, MongoDB, Python, SQL, Git
 
