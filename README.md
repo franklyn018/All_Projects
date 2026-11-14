@@ -1,21 +1,14 @@
 # Hi, I'm Franklyn Lu 👋
 
-I'm a Computer Science recent grad student at **UC Riverside** with interests in **software engineering**.
+MS Computer Science student with a BS in Computer Science from UC Riverside (2026). I build full-stack web applications
 
-I enjoy building projects with software that can be used by people actual useful things. 
+Tech I work with: JavaScript, React, Node.js, Express, MongoDB, Python, SQL, Git
+
+Contact: franklyn1101@gmail.com
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Personal Projects
-
-### ImprovKeys: 
-An interactive piano improvisation learning platform for musicians to learn a new skill. 
-- Interactive lesson system
-- Jam session / practice tools
-- MIDI controller input support
-- User login + lesson progress tracking
-
-Link: https://github.com/franklyn018/ImprovKeys.git
 
 ### Property Management: 
 A full stack property management for both property owners and their tenants to keep track of maintenance and rent. 
@@ -26,10 +19,21 @@ A full stack property management for both property owners and their tenants to k
 
 Link: https://github.com/franklyn018/Property_Management.git
 
+### ImprovKeys: 
+An interactive piano improvisation learning platform for musicians to learn a new skill. 
+- Interactive lesson system
+- Jam session / practice tools
+- MIDI controller input support
+- User login + lesson progress tracking
+
+Link: https://github.com/franklyn018/ImprovKeys.git
+
 ### Dimensioner Project: 
 A university-industry partnered engineering project that involves out bound shipping automation for warehouse unloading and optimized pallet placement system. 
 
-Link: Signed NDA
+Link: Code is private under an NDA
+
+<!-- 
 
 ## All School (UCR) Project HTTPS Github Links:
 
@@ -52,3 +56,5 @@ https://colab.research.google.com/drive/1bpyGRCHEeqE1WptbIK_9yOAqxtc1Ujlq
 https://colab.research.google.com/drive/19HQor-WZjfcu8g7cxmQXQOh0tk-68-df
 
 https://colab.research.google.com/drive/1_r9jaX3HZ2ehiP-LtB8XYjTj6TeAzgg6
+
+-->
